@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\homepracticaCinema\homepracticaCinema\bin\Debug\homepracticaCinema.exe.config
+C:\Users\user\source\repos\homepracticaCinema\homepracticaCinema\bin\Debug\homepracticaCinema.exe
+C:\Users\user\source\repos\homepracticaCinema\homepracticaCinema\bin\Debug\homepracticaCinema.pdb
+C:\Users\user\source\repos\homepracticaCinema\homepracticaCinema\obj\Debug\homepracticaCinema.csprojAssemblyReference.cache
+C:\Users\user\source\repos\homepracticaCinema\homepracticaCinema\obj\Debug\homepracticaCinema.Form1.resources
+C:\Users\user\source\repos\homepracticaCinema\homepracticaCinema\obj\Debug\homepracticaCinema.Properties.Resources.resources
+C:\Users\user\source\repos\homepracticaCinema\homepracticaCinema\obj\Debug\homepracticaCinema.csproj.GenerateResource.cache
+C:\Users\user\source\repos\homepracticaCinema\homepracticaCinema\obj\Debug\homepracticaCinema.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\homepracticaCinema\homepracticaCinema\obj\Debug\homepracticaCinema.exe
+C:\Users\user\source\repos\homepracticaCinema\homepracticaCinema\obj\Debug\homepracticaCinema.pdb
+C:\Users\user\source\repos\homepracticaCinema\homepracticaCinema\obj\Debug\homepracticaCinema.Forms.Input.resources
+C:\Users\user\source\repos\homepracticaCinema\homepracticaCinema\obj\Debug\homepracticaCinema.Forms.Hall.resources
